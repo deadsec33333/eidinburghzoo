@@ -1,9 +1,8 @@
 {
-    "rewrites": [
-      {
-        "source": "/Beloved-Barry-The-Indian-Rhino-Tragically-Passes-Away",
-        "destination": "/Beloved-Barry-The-Indian-Rhino-Tragically-Passes-Away.html"
-      }
-    ]
-  }
-  
+  "rewrites": [
+    {
+      "source": "/Edinburgh-Zoo-Celebrates-the-Birth-of-Arson-a-Baby-Gorilla-with-a-Fiery-Spirit",
+      "destination": "/Edinburgh-Zoo-Celebrates-the-Birth-of-Arson-a-Baby-Gorilla-with-a-Fiery-Spirit.html"
+    }
+  ]
+}
